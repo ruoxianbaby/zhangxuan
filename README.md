@@ -1,16 +1,13 @@
 ## 张轩
 我的在线简历
 
-## 联系方式
-- 手机：15061690110  
-- Email：ruo123xian@gmail.com
-- 微信号：m18361815801
-
 ## 个人信息
-
  - 张轩/男/1993 
  - 专科/镇江高等专科大学
  - 工作年限：5年
+ - 手机：15061690110  
+ - Email：ruo123xian@gmail.com
+ - 微信号：m18361815801
  - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)
  - Github：[ruoxianbaby](http://github.com/ruoxianbaby)
  - 期望职位：PHP中高级程序员/技术经理/JavaScript前端工程师
