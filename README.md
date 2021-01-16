@@ -1,35 +1,35 @@
 ## 张轩
 我的在线简历
 
-## 个人信息
- - 张轩/男/1993 
- - 专科/镇江高等专科大学
- - 工作年限：5年
+## 个人信息  
+ - 张轩/男/1993  
+ - 专科/镇江高等专科大学  
+ - 工作年限：5年  
  - 手机：15061690110  
- - Email：ruo123xian@gmail.com
- - 微信号：m18361815801
- - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)
- - Github：[ruoxianbaby](http://github.com/ruoxianbaby)
- - 期望职位：PHP中高级程序员/技术经理/JavaScript前端工程师
- - 期望薪资：16k~20k
+ - Email：ruo123xian@gmail.com  
+ - 微信号：m18361815801  
+ - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)  
+ - Github：[ruoxianbaby](http://github.com/ruoxianbaby)  
+ - 期望职位：PHP中高级程序员/技术经理/JavaScript前端工程师  
+ - 期望薪资：16k~20k  
 
-## 技能清单
-以下均为我熟练使用的技能
+## 技能清单  
+以下均为我熟练使用的技能  
 
-- Web开发：PHP/Python/JavaScript
-- Web框架：Yii2/ThinkPHP/Laravel/Swoft
-- 前端框架：Vue/Element-ui/Ant-design/Lodash 
-- 前端工具：Webpack/Vue-cli
-- 运维技能: Docker/Shell
-- 数据库相关：MySQL/Redis
-- 版本管理、文档和自动化部署工具：Git/Git-Workflow/Markdown
+- Web开发：PHP/Python/JavaScript  
+- Web框架：Yii2/ThinkPHP/Laravel/Swoft  
+- 前端框架：Vue/Element-ui/Ant-design/Lodash  
+- 前端工具：Webpack/Vue-cli  
+- 运维技能: Docker/Shell  
+- 数据库相关：MySQL/Redis  
+- 版本管理、文档和自动化部署工具：Git/Git-Workflow/Markdown  
 
 ## 其他技能  
-- 熟悉设计模式，算法，微服务，分布式锁，消息队列
-- 熟悉Mysql锁机制，性能优化，索引原理
-- 学完《JavaScript高级程序设计》《数据结构与算法的JavaScript实现》《深入理解ES6》《JavaScript的函数式编程》
-- 阅读《高性能MySQL》《深入PHP、面向对象、设计模式与实践》《Yii2官方文档》《Modern PHP》《Laravel文档》
-- 逛GitHub,看优秀源码,常关注知乎掘金编程话题
+- 熟悉设计模式，算法，微服务，分布式锁，消息队列  
+- 熟悉Mysql锁机制，性能优化，索引原理，全文搜索，数据库拆分  
+- 学完《JavaScript高级程序设计》《数据结构与算法的JavaScript实现》《深入理解ES6》《JavaScript的函数式编程》 
+- 阅读《高性能MySQL》《深入PHP、面向对象、设计模式与实践》《Yii2官方文档》《Modern PHP》《Laravel文档》 
+- 逛GitHub,看优秀源码,常关注知乎掘金编程话题  
  
 ## 工作经历
 
