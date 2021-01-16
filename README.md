@@ -10,7 +10,7 @@
  - 微信号：m18361815801  
  - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)  
  - Github：[ruoxianbaby](http://github.com/ruoxianbaby)  
- - 期望职位：PHP中高级程序员/技术经理/JavaScript前端工程师  
+ - 期望职位：PHP中高级程序员/小型团队技术经理/JavaScript前端工程师  
  - 期望薪资：16k~20k  
 
 ## 技能清单  
