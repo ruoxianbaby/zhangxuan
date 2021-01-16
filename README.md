@@ -10,7 +10,7 @@
  - 微信号：m18361815801  
  - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)  
  - Github：[ruoxianbaby](http://github.com/ruoxianbaby)  
- - 期望职位：PHP中高级程序员/小型团队技术经理/JavaScript前端工程师  
+ - 期望职位：PHP中高级程序员/技术经理/JavaScript前端工程师  
  - 期望薪资：16k~20k  
 
 ## 技能清单  
@@ -26,6 +26,7 @@
 
 ## 其他技能  
 - 熟悉设计模式，算法，微服务，分布式锁，消息队列  
+- 注重开发规范，开发流程和技术选型的合理性  
 - 熟悉Mysql锁机制，性能优化，索引原理，全文搜索，数据库拆分  
 - 学完《JavaScript高级程序设计》《数据结构与算法的JavaScript实现》《深入理解ES6》《JavaScript的函数式编程》 
 - 阅读《高性能MySQL》《深入PHP、面向对象、设计模式与实践》《Yii2官方文档》《Modern PHP》《Laravel文档》 
