@@ -43,7 +43,7 @@
 #### TraildCloud-Sass系统  
 
 - 基础功能。搭建多租户系统，中心域、租户域的隔离。用户的登录与注册，支持微信扫描登录，短信登录。启用Swoole，大大降低接口响应时间  
-- 权限中心。实现用户-角色-权限的绑定。操作权限（只读、读写、不可见），数据权限的实现（下属、部门、全部、仅自己） 
+- 权限中心。实现用户-角色-权限的绑定。操作权限（只读、读写、不可见），数据权限的实现（下属、部门、全部、仅自己  
 - [数据权限文档](https://ruoxianbaby.github.io/zhangxuan/DataPermission/) ｜[权限验证文档](https://ruoxianbaby.github.io/zhangxuan/Permission/)  
 - 工作流。工作流状态（State)，动作(Action)，转化(Translation)，执行条件（Condition），多工作流的实现  
 - 其他。技术方案确定，支持复杂搜索的url，实现自定义字段，开发composer包  
