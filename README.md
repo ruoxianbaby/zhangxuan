@@ -10,7 +10,7 @@
 - 手机：17177767720 ｜ Email：<ruo123xian@gmail.com> ｜ 微信号：moemoemoe_yiki
 - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)  ｜Github：[ruoxianbaby](http://github.com/ruoxianbaby)  
 - 期望职位：PHP高级程序员/JavaScript前端工程师  
-- 期望薪资：18k+  
+- 期望薪资：15k+  
 
 ## 技能清单  
 
