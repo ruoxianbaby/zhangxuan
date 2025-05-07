@@ -6,7 +6,7 @@
 
 - 张轩/男/1993  
 - 镇江高等专科大学  
-- 工作年限：7年  
+- 工作年限：8年  
 - 手机：17177767720 ｜ Email：<ruo123xian@gmail.com> ｜ 微信号：moemoemoe_yiki
 - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)  ｜Github：[ruoxianbaby](http://github.com/ruoxianbaby)  
 - 期望职位：PHP高级程序员/JavaScript前端工程师  
@@ -38,7 +38,7 @@
 
 ## 工作经历
 
-### 雅耶国际贸易（上海）有限公司(2020年12月-2022年3月)  
+### 雅耶国际贸易（上海）有限公司(2021年1月-2025年03月)  
 
 #### TraildCloud-Sass系统  
 
@@ -47,6 +47,8 @@
 - [数据权限文档](https://ruoxianbaby.github.io/zhangxuan/DataPermission/) ｜[权限验证文档](https://ruoxianbaby.github.io/zhangxuan/Permission/)  
 - 工作流。工作流状态（State)，动作(Action)，转化(Translation)，执行条件（Condition），多工作流的实现  
 - 其他。技术方案确定，支持复杂搜索的url，实现自定义字段，开发composer包  
+- 第三方订单的导入与导出。  
+- 广告机管理系统。设备位置状态管理，广告的推送展示，媒体内容管理。  
 
 ### 上海犀亿科技（2018年10月-2019年12月）
 
