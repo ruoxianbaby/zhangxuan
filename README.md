@@ -9,12 +9,12 @@
 - 工作年限：8年  
 - 手机：17177767720 ｜ Email：<ruo123xian@gmail.com> ｜ 微信号：moemoemoe_yiki
 - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)  ｜Github：[ruoxianbaby](http://github.com/ruoxianbaby)  
-- 期望职位：PHP高级程序员/JavaScript前端工程师  
-- 期望薪资：15k+  
+- 期望职位：PHP高级程序员/Java工程师  
+- 期望薪资：18k+  
 
 ## 技能清单  
 
-- 编程语言：PHP/JavaScript/Python/Go  
+- 编程语言：PHP/JavaScript/Python/Go/Java  
 - Web框架：Laravel/Yii2/Swoole  
 - 前端：Vue/Vite/Element-Ui/Ant-Design/Lodash  
 - 运维技能: Docker/Shell  
