@@ -6,10 +6,10 @@
 
 - 张轩/男/1993  
 - 镇江高等专科大学  
-- 工作年限：8年  
+- 工作年限：10年  
 - 手机：17177767720 ｜ Email：<ruo123xian@gmail.com> ｜ 微信号：moemoemoe_yiki
 - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)  ｜Github：[ruoxianbaby](http://github.com/ruoxianbaby)  
-- 期望职位：PHP高级程序员/Java工程师  
+- 期望职位：PHP高级程序员/Python工程师  
 - 期望薪资：18k+  
 
 ## 技能清单  
@@ -17,8 +17,8 @@
 - 编程语言：PHP/JavaScript/Python/Go/Java  
 - Web框架：Laravel/Yii2/Swoole  
 - 前端：Vue/Vite/Element-Ui/Ant-Design/Lodash  
-- 运维技能: Docker/Shell  
-- 数据库相关：MySQL/Redis  
+- 运维技能: Docker/Shell/Python  
+- 数据库相关：MySQL/Redis/PostgreSQL  
 - 版本管理、文档和自动化部署工具：Git/Markdown/DevOps  
 
 ## 其他技能  
@@ -26,9 +26,9 @@
 - 深刻理解面向对象编程，PHP特性和底层实现  
 - 熟练设计模式，数据结构，算法，微服务架构，分布式锁，高并发  
 - 注重开发规范，开发流程和技术选型的合理性，良好的编码习惯，遵循PSR代码风格和Symfony规范准则  
-- 熟悉低代码平台和SASS软件的架构  
+- 熟悉低代码平台、SASS、重型企业级软件的架构  
 - 熟练掌握Mysql锁机制，性能优化，索引原理，全文搜索，数据库拆分，能按规范编写优质SQL  
-- 学完《JavaScript高级程序设计》《数据结构与算法的JavaScript实现》《深入理解ES6》《JavaScript的函数式编程》
+- 掌握《JavaScript高级程序设计》《数据结构与算法的JavaScript实现》《深入理解ES6》《JavaScript的函数式编程》
 - 阅读《高性能MySQL》《深入PHP、面向对象、设计模式与实践》《Modern PHP》《Laravel文档》
 - 逛GitHub，看优秀源码，关注知乎、掘金编程话题  
 
