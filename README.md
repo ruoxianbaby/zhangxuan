@@ -5,8 +5,7 @@
 ## 个人信息  
 
 - 张轩/男/1993  
-- 镇江高等专科大学  
-- 工作年限：10年  
+ 
 - 手机：17177767720 ｜ Email：<ruo123xian@gmail.com> ｜ 微信号：moemoemoe_yiki
 - LeetCode: [ruoxianbaby](https://leetcode-cn.com/ruoxianbaby/)  ｜Github：[ruoxianbaby](http://github.com/ruoxianbaby)  
 - 期望职位：PHP高级程序员/Python工程师  
